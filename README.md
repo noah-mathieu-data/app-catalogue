@@ -1,5 +1,7 @@
 # app-catalogue
 
+👉 [Ouvrir l'application en ligne](https://rayon-poesie.streamlit.app)
+
 Mon premier tableau de bord en Streamlit fait pendant la semaine 9 de ma formation Data Analyst à la Wild Code School.
 
 L'application affiche les 19 livres de poésie du site books.toscrape.com. On filtre à gauche par note, par prix ou par mot du titre. Les chiffres le tableau et les palmarès se mettent à jour tout seuls.
