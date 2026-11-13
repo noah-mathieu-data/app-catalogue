@@ -4,7 +4,7 @@ Mon premier tableau de bord en Streamlit fait pendant la semaine 9 de ma formati
 
 L'application affiche les 19 livres de poésie du site books.toscrape.com. On filtre à gauche par note, par prix ou par mot du titre. Les chiffres le tableau et les palmarès se mettent à jour tout seuls.
 
-![Capture de l'application](capture_app.png)
+![Capture de l'application](capture_bibliotheque.png)
 
 ## Ce qu'on y trouve
 
